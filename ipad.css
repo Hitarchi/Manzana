@@ -1,0 +1,26 @@
+.col-7-12 {
+    width: 58.33%;
+}
+.col {
+    display: inline-block;
+    vertical-align: top;
+}
+.col, .row {
+    width: 100%;
+}
+._2kHMtA ._4rR01T {
+    font-weight: bolder;
+    font-size: 22px;
+    display: block;
+    cursor: pointer;
+    color: black;
+}
+._1xgFaf {
+    margin-top: 19px;
+    color: #212121;
+    line-height: 29px;
+    display: table;
+	font-size:17px;
+	font-family:sans-serif;
+}
+
